@@ -1,0 +1,5 @@
+Spectre Malicious Code
+
+use "sudo ./check.sh" to check for vulnerability.
+
+run "make && ./spectre.out" to see the vulnerability in action
